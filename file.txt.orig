@@ -1,0 +1,7 @@
+<<<<<<< HEAD
+print('Hello World')
+print('Bye World')
+=======
+print('hello earth')
+print('bye earth')
+>>>>>>> branch2
